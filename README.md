@@ -44,7 +44,7 @@ The model predicts whether a tweet is positive or negative using Logistic Regres
 
 ## Accuracy
 
-* Achieved good accuracy on test data.
+* Achieved 77.6% accuracy on test data.
 
 ---
 
