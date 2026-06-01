@@ -85,6 +85,8 @@ Twitter_Sentiment_Analysis_using_Ml.ipynb
 
 ---
 
+pre trained model file included
+
 ## Author
 
 Aman Kumar
